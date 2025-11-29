@@ -18,7 +18,7 @@ Dự án được xây dựng bằng Python, sử dụng `pandas`, `scikit-learn
 
 ### 1. Clone repository
 ```bash
-git clone https://github.com/ntrThanh/Project-Machine-Learning.git
+git clone https://github.com/ThangNguyennv/IBM-HR-Analytics-Employee-Attrition-Performance.git
 cd Project-Intro-AI
 ```
 
