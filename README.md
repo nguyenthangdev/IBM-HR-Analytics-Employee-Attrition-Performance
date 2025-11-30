@@ -1,4 +1,4 @@
-# Machine Learning Project
+# Intro AI Project
 
 ## Giới thiệu
 
@@ -18,8 +18,8 @@ Dự án được xây dựng bằng Python, sử dụng `pandas`, `scikit-learn
 
 ### 1. Clone repository
 ```bash
-git clone https://github.com/ntrThanh/Project-Machine-Learning.git
-cd Project-Machine-Learning
+git clone https://github.com/ThangNguyennv/IBM-HR-Analytics-Employee-Attrition-Performance.git
+cd IBM-HR-Analytics-Employee-Attrition-Performance
 ```
 
 ### 2. Tạo môi trường ảo
@@ -47,9 +47,7 @@ jupyter-notebook
 
 ## Các mô hình được sử dụng trong dự án
 
-**Giai đoạn 1:** Các mô hình được sử dụng sẽ là `Logistic Regression`, `Naive Bayes`, `KNN`. Mô hình giảm chiều gồm có `LDA`, `PCA`
-
-**Giai đoạn 2:** Các mô hình có thể có thêm là  `Decision Tree`, `Random Forest`, `Support Vector Machine`
+`Naive Bayes`, `Random Forest`, `Perceptron`
 
 ## Đánh giá mô hình
 
@@ -62,8 +60,8 @@ Các mô hình sẽ được đánh giá thông qua các chỉ số:
 
 ## Nhóm tác giả:
 
-| Họ và tên              | Vai trò     | GitHub                                  | Email                                                                 |
-| ---------------------- | ----------- | --------------------------------------- | --------------------------------------------------------------------- |
-| **Nguyễn Trọng Thành** | Trưởng nhóm | [ntrThanh](https://github.com/ntrThanh) | [nguyentrongthanh672@gmail.com](mailto:nguyentrongthanh672@gmail.com) |
-| **Nguyễn Văn Thắng**   | Thành viên  | [thangnv](https://github.com/ThangNguyennv)   | –                                                                     |
-| **Đinh Bá Thi**        | Thành viên  | –                                       | –                                                                     |
+| Họ và tên              | Vai trò     |  Email  |
+| ---------------------- | ----------- | ------- |
+| **Nguyễn Trung Thành** | Trưởng nhóm | ------- |
+| **Nguyễn Văn Thắng**   | Thành viên  | ------- |       
+| **Đinh Bá Thi**        | Thành viên  | ------- |
